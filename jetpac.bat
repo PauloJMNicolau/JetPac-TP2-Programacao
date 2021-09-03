@@ -1,0 +1,1 @@
+java -cp bin jetpac.app.JetPac
